@@ -9,6 +9,7 @@ output:
     beamer_presentation:
         theme: MFP
 shortauthor: Paterno
+colorlinks: true
 ---
 
 ```{r, setup, include = FALSE, echo = FALSE}
